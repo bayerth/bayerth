@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Bayer (@bayerth)
 - 👀 I’m interested in Data Science and IoT (and AWS)
-- 🌱 I’m currently learning Tensorflow and Redshift
+- 🌱 I’m currently working on LLMs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thomas.bayer@rwu.de
 
